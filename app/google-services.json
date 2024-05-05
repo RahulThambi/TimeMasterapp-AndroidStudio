@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "494411592563",
+    "project_id": "timemasterog",
+    "storage_bucket": "timemasterog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494411592563:android:e7cd81ed1908072daacb06",
+        "android_client_info": {
+          "package_name": "com.example.water_intake_time_master_function"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArl-qx1I82we9tT5BilxKr6DQ3NjoHLwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

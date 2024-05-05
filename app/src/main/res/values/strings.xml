@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">water_intake_time_master_function</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="LOGIN">LOGIN</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="register">REGISTER</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">click to register</string>
+    <string name="logout">logout</string>
+    <string name="title">Title</string>
+    <string name="message">Message</string>
+    <string name="schedule_notification">Schedule Notification</string>
+</resources>
